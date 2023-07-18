@@ -1,0 +1,4 @@
+[AutoRun]
+shellexecute=https://lyceerompsay17.fr
+icon=icon.ico
+label=VarsovieUSB

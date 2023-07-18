@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1000px" height="1000px" viewBox="0 0 1000 1000" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M1000 0L1000 0L1000 1000L0 1000L0 0L1000 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="VarsovieUSB_Logo_V" clip-path="url(#clip_1)">
+    <path d="M1000 0L1000 0L1000 1000L0 1000L0 0L1000 0Z" id="VarsovieUSB_Logo_V" fill="#FFFFFF" fill-opacity="0" stroke="none" />
+    <path d="M348.891 168.443L497.609 655.512L503.129 655.512L651.848 168.443L831.739 168.443L607.362 833.454L393.376 833.454L169 168.443L348.891 168.443Z" id="a" fill="#FF4D4D" fill-rule="evenodd" stroke="none" />
+    <path d="M0 860L140 860L140 1000L0 1000L0 860Z" id="a" fill="#FF4D4D" fill-rule="evenodd" stroke="none" />
+    <path d="M860 0L1000 0L1000 140L860 140L860 0Z" id="a" fill="#FF4D4D" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
